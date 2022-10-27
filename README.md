@@ -1,5 +1,5 @@
-# Docker Environment PHP
-## Complete docker environment with Nginx, PHP and MariaDB
+# myfood
+## My food plataform
 To run this app you need:
   * install docker and docker-compose in your system
   * install git in your system
